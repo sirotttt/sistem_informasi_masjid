@@ -22,7 +22,12 @@
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
         <div class="container">
+<<<<<<< HEAD
             <a class="navbar-brand" href="#page-top"><img src="assets/img/masfo.png" alt="..." /></a>
+=======
+            <a class="navbar-brand" href="#page-top"><img src="assets/img/logo-simasjid.svg"
+                    alt="..." /></a>
+>>>>>>> 666de1d (menambahkan landingpage)
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 Menu
@@ -30,11 +35,19 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+<<<<<<< HEAD
                     <li class="nav-item"><a class="nav-link" href="#services">Service</a></li>
                     <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
                     <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                     <li class="nav-item"><a class="nav-link" href="#team">Commitee</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+=======
+                    <li class="nav-item"><a class="nav-link" style="color:#ffffff" href="#services">Beranda</a></li>
+                    <li class="nav-item"><a class="nav-link" style="color:#ffffff" href="#portfolio">Galeri</a></li>
+                    <li class="nav-item"><a class="nav-link" style="color:#ffffff" href="#kegiatan">Kegiatan</a></li>
+                    <li class="nav-item"><a class="nav-link" style="color:#ffffff" href="#team">Pengurus</a></li>
+                    <li class="nav-item"><a class="nav-link" style="color:#ffffff" href="#contact">Kontak</a></li>
+>>>>>>> 666de1d (menambahkan landingpage)
                 </ul>
             </div>
         </div>
@@ -47,6 +60,28 @@
             <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
         </div>
     </header>
+<<<<<<< HEAD
+=======
+
+    <!-- deskripsi -->
+    <section class="page-section" id="deskripsi">
+        <div class="container">
+            <div class="text-center">
+                <h1 class="display-4 fw-bolder">SIMASJID</h1>
+                <p id="about" class="lead fw-normal text-dark-50 mb-0">Hai sobat muslim, selamat datang di SIMASJID
+                    Aplikasi Sistem Informasi Masjid ini adalah sebuah aplikasi digital yang dapat mengakses informasi
+                    dari masjid at thohir. Dalam aplikasi ini, terdapat pula sezione lengkap tentang masjid,struktur
+                    organisasi, dan
+                    informasi kontak yang berguna. Galeri foto yang memungkinkan pengguna untuk melihat momen-momen
+                    berharga dan kegiatan yang telah dilakukan di masjid. Dengan aplikasi Sistem Informasi Masjid ini,
+                    pengurus masjid dapat meningkatkan transparansi, efisiensi, dan keterlibatan jamaah dalam kegiatan
+                    masjid, Memberikan kemudahan akses informasi dan memperkuat komunikasi antara pengurus masjid dan
+                    jamaah. </p>
+            </div>
+        </div>
+    </section>
+
+>>>>>>> 666de1d (menambahkan landingpage)
     <!-- Services-->
     <section class="page-section" id="services">
         <div class="container">
@@ -89,8 +124,13 @@
     <section class="page-section bg-light" id="portfolio">
         <div class="container">
             <div class="text-center">
+<<<<<<< HEAD
                 <h2 class="section-heading text-uppercase">Portfolio</h2>
                 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+=======
+                <h2 class="section-heading text-uppercase">Galeri</h2>
+                <h3 class="section-subheading text-muted">Berikut Adalah Dokumentasi dari Beberapa Acara yang Sudah di Selenggarakan</h3>
+>>>>>>> 666de1d (menambahkan landingpage)
             </div>
             <div class="row">
                 <div class="col-lg-4 col-sm-6 mb-4">
@@ -186,6 +226,10 @@
             </div>
         </div>
     </section>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 666de1d (menambahkan landingpage)
     <!-- About-->
     <section class="page-section" id="about">
         <div class="container">
@@ -679,7 +723,11 @@
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal"
                                     type="button">
                                     <i class="fas fa-xmark me-1"></i>
+<<<<<<< HEAD
                                     Close Project
+=======
+                                    Close
+>>>>>>> 666de1d (menambahkan landingpage)
                                 </button>
                             </div>
                         </div>
